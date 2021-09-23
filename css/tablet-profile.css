@@ -1,0 +1,10 @@
+.background_profile {
+    background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+    padding-top: 1.7rem;
+
+    width: 100vw;
+    height: 100vh;
+}
+.background-section{
+    border-radius: 4rem 4rem 4rem 4rem;
+}

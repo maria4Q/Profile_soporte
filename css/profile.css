@@ -1,0 +1,242 @@
+.background_profile {
+    background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+    padding-top: 1.7rem;
+}
+.banner h5{
+    margin-left: 3rem;
+    margin-top: 0.1rem;
+
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.8rem;
+    line-height: 2.3rem;
+    
+    color: #FFFFFF;
+}
+.back{
+    position: absolute;
+}
+.cheque{
+    width: 1.21rem;
+    height: 0.87rem;
+    position: absolute;
+    margin: 1rem 0rem 0rem 26.3rem;
+}
+
+.banner span{
+    position: absolute;
+    width: 8.6rem;
+    height: 2.8rem;
+    margin: 0rem 0.6rem 0rem 25.3rem;
+    background: #FFFFFF;
+    color: #6688CA;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border-radius: 2rem;
+    text-decoration: none;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.banner .cheque{
+    width: 1.21rem;
+    height: 0.87rem;
+    position: absolute;
+    margin: 1rem 0rem 0rem 26.3rem;
+}
+.background-section{
+    background-color: #fff;
+    border-radius: 4rem 4rem 0rem 0rem;
+    margin-top: -0.8rem;
+}
+.item-2{
+    width: 34.1rem;
+    height: 10rem;
+    border: 1px solid #5278C1;
+    border-radius: 1.5rem;
+    margin-top: -4rem;
+    padding: 0.9rem;
+
+}
+.item-2 .img{
+    margin-right: 4rem;
+}
+
+.text-1{
+    font-size: 2rem;
+    font-weight: 750;
+    color: #000000;
+    position: absolute;
+    margin-top: -8.3rem;
+    margin-left: 8.4rem;
+}
+
+.text-2{
+    position: absolute;
+    margin-top: -4rem;
+    margin-left: 8.3rem;
+
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #777777;
+}
+
+.img{
+    position: absolute;
+    margin-top: 0.5rem;
+    margin-left: 20.3rem;
+}
+/***********************************************/
+.form {
+    margin-top: -0.7rem;
+    margin-right: 5rem;
+    width: 100%;
+
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.form_left{
+    margin-top: 3rem;
+    overflow-wrap: normal;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    right: 26.2rem;
+    width: 7rem;
+    word-wrap: normal;
+
+    color: #A5A5A5;
+
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form_left img{
+    width: 1.3rem;
+    height: 1.58rem;
+    position: absolute;
+    margin: 2.5rem 0rem 0rem 14.5rem;
+}
+
+.form_left input {
+    margin-right: 2rem;
+    width: 16.1rem;
+    height: 4rem;
+    border: none;
+    border-bottom: 1px solid #E1E3E8;
+    color:  #323643;
+    outline: none;
+    font-size: var(--size-parrafo);  
+}
+
+.form_right{
+    margin-top: 3rem;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    margin-right: 13rem;
+    margin-left: 18rem;
+    width: 7rem;
+    margin-top: -5.7rem;
+
+
+    color: #A5A5A5;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form_right img{
+    width: 1.3rem;
+    height: 1.58rem;
+    position: absolute;
+    margin: 2.5rem 0rem 0rem 14.5rem;
+}
+
+
+.form_right input {
+    margin-right: 2rem;
+    width: 16.1rem;
+    height: 4rem;
+    border: none;
+    border-bottom: 1px solid #E1E3E8;
+    color:  #323643;
+    outline: none;
+    font-size: var(--size-parrafo);  
+}
+
+.form2 {
+    margin-top: 2rem;
+    width: 100%rem;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.formLabel{
+    margin-top: -0.5rem;
+    padding-bottom: 1rem;
+    font-size: 1.2rem;
+    color: var(--gris3);
+    margin-bottom: 3.5rem;
+
+    display: flex;
+    flex-direction: column;
+
+   
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    margin-right: 13rem;
+    margin:auto;
+
+    color: #A5A5A5;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.formLabel img{
+    width: 1.3rem;
+    height: 1.58rem;
+    position: absolute;
+    margin: 2.5rem 0rem 0rem 32.5rem;
+}
+
+.formLabel input {
+    margin-right: 2rem;
+    width: 34.1rem;
+    height: 4rem;
+    border: none;
+    border-bottom: 1px solid #E1E3E8;
+    outline: none;
+    font-size: var(--size-parrafo);
+}
+
+section{
+    max-width: 37.5rem;
+    height: auto;
+    margin: auto;
+    padding: 5rem 1.5rem;
+
+    display: flex;
+    flex-direction: column;
+}
+::placeholder { color: #323643; font-weight: 600;  font-size: 1.3rem;}

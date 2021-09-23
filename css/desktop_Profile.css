@@ -1,0 +1,94 @@
+.background_profile {
+    background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+    padding-top: 2rem;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.banner{
+    margin-top: -1rem;
+    margin-left: 5rem;
+    
+}
+.banner span{
+    position: absolute;
+    width: 8.6rem;
+    height: 2.8rem;
+    margin-left: 110rem;
+    background: #FFFFFF;
+    color: #6688CA;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border-radius: 2rem;
+    text-decoration: none;
+    cursor: pointer;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.background-section{
+    margin-top: 10rem;
+    margin-left: -16rem;
+    max-width: 80rem;
+    border-radius: 4rem 4rem 4rem 4rem;
+}
+.form {
+    margin-top: -0.7rem;
+    margin-right: 5rem;
+    width: 100%;
+
+    display: flex;
+    /*flex-wrap: row;*/
+    flex-direction: row;
+
+}
+.form_left{
+    /*margin-top: 3rem;*/
+    overflow-wrap: normal;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    /*margin-left: 0.6rem;*/
+    margin-right: 3.5rem;
+    padding-left: 1rem;
+    width: 7rem;
+
+    color: #A5A5A5;
+
+
+    /*display: flex;
+    flex-wrap: row;*/
+}
+
+.form_right{
+    margin-top: 3rem;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    /*margin-right: 25rem;*/
+    margin-left: 12rem;
+    margin-right: 4rem;
+    width: 7rem;
+    /*margin-top: -5.7rem;*/
+
+
+    color: #A5A5A5;
+
+    display: flex;
+    flex-wrap: row;
+}
+.form2 {
+    margin-top: 4rem;
+    width: 100%rem;
+
+    display: flex;
+    flex-wrap: wrap;
+}
